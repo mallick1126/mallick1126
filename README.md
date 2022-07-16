@@ -3,9 +3,12 @@
 
 <img align="center" src="https://github.com/mallick1126/mallick1126/blob/main/banner%20(1).png" />
 
-<img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
+
 
 <h2 align="left">About me</h2>
+
+
+<img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 
 -  I’m currently Studying **Computer Science and engineering**
 - 💡 Some technologies I enjoy working with **include ReactJS, JavaScript.**

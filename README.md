@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rahul
 [![Twitter Follow](https://img.shields.io/twitter/follow/rahulmallick01?label=Follow)](https://twitter.com/intent/follow?screen_name=rahul,allick01)[![Linkedin: Rahul](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulmallick01/)](https://www.linkedin.com/in/rahulmallick01/)![GitHub followers](https://img.shields.io/github/followers/mallick1126?label=Follow&style=social)![Profile views](https://gpvc.arturio.dev/mallick1126) 
 
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)
+<img align="center" src="" />
 
 <img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 

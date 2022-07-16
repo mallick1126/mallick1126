@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rahul
+### <h1>Hi there 👋, I'm Rahul</h1>
 [![Twitter Follow](https://img.shields.io/twitter/follow/rahulmallick01?label=Follow)](https://twitter.com/intent/follow?screen_name=rahul,allick01)[![Linkedin: Rahul](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulmallick01/)](https://www.linkedin.com/in/rahulmallick01/)![GitHub followers](https://img.shields.io/github/followers/mallick1126?label=Follow&style=social)![Profile views](https://gpvc.arturio.dev/mallick1126) 
 
 <img align="center" src="https://github.com/mallick1126/mallick1126/blob/main/banner%20(1).png" />

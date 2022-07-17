@@ -10,7 +10,7 @@
 
 <img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 
--  I’m currently Studying **Computer Science and engineering**
+- 🎓 I’m currently Studying **Computer Science and engineering**
 - 💡 Some technologies I enjoy working with **include ReactJS, JavaScript.**
 - 🌱 I'm on track for learning **more about Cross-Platform Development, Systems Design, and Algorithms.**
 - 💬 Ask me about **JavaScript**

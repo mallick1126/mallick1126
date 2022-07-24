@@ -13,7 +13,7 @@
 - 🎓 I’m currently Studying **Computer Science and engineering**
 - 💡 Some technologies I enjoy working with **include ReactJS, JavaScript.**
 - 🌱 I'm on track for learning **more about Nodejs , ExpressJs and Algorithms.**
-- 💬 Love to code in **JavaScript** but forced to code in **Cpp**
+- 💬 Love to code in **JavaScript** but forced to do in **Cpp**
 - 📫 How to reach me - You can mail me at **rahulmallick1126@gmail.com**
 
 <h2 align="left">Connect with me:</h2>

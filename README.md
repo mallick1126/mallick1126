@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallick1126&" alt="mallick1126" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mallick1126)  
+  

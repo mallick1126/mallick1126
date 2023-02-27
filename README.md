@@ -31,6 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mallick1126&show_icons=true&locale=en&layout=compact" alt="mallick1126" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallick1126&" alt="mallick1126" /></p>
-
   

@@ -30,7 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mallick1126&show_icons=true&locale=en&layout=compact" alt="mallick1126" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mallick1126&show_icons=true&count_private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallick1126&" alt="mallick1126" /></p>
 

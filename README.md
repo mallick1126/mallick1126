@@ -10,10 +10,9 @@
 
 <img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 
-- 🎓 Currently working as a **SDE-1(Backend)**
+- 🎓 Currently working as a **SDE-1(Backend)** @ Jio Platforms Limited
 - 💡 Some technologies I enjoy working with **include ReactJS, JavaScript.**
 - 🌱 I'm on track for learning **more about Nodejs , ExpressJs and Algorithms.**
-- 💬 Love to code in **JavaScript** but forced to do it in **Cpp, Java**
 - 📫 How to reach me - You can mail me at **rahulmallick1126@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
